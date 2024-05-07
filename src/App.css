@@ -1,0 +1,15 @@
+.cls{
+  height: 100vh;
+  width: 100vw;
+   text-align: center;
+   
+}
+.colortype{
+  margin-top: 230px;
+  font-size: 50px;
+}
+
+.colorcode{
+  margin-top: 200px;
+  font-size: 50px;
+}
